@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # esports_home
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# esports_home
+>>>>>>> 93a047d151526e9aa041b27215f935f937fbc5b6
